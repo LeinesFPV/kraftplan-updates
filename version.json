@@ -1,10 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "file": "Kraftplan-1.4.apk",
-  "sha256": "5a58cda0807a36c3058aa5a7468f73e9ab729f954cce4995d80d9f2f7ccfea3d",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "file": "Kraftplan-1.5.apk",
+  "sha256": "684b4695c211a545cb139b7e04129b8ac2555903982d088a5339e67e5d92e56b",
   "date": "2026-10-28",
   "notes": [
-    "Der Knopf „Video auf YouTube suchen“ öffnet jetzt YouTube"
+    "Neue Einstellung „Fleisch und Fisch bevorzugt“: mittags und abends immer Fleisch oder Fisch (Profil → Ernährung ändern)",
+    "6 neue Gerichte: Putenschnitzel, Hähnchen-Curry, Puten-Geschnetzeltes, Rindersteak, Hackbällchen und Hähnchen-Salat, jeweils mit Bild und Kochanleitung",
+    "Die Mengen treffen deine Kalorien und dein Eiweiß jetzt genauer"
   ]
 }
