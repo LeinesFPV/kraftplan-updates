@@ -2,18 +2,19 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.5** (2026-10-28)
+**Aktuelle Version: 1.6** (2026-10-28)
 
-[Kraftplan-1.5.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.5.apk)
+[Kraftplan-1.6.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.6.apk)
 
 ## Neu in dieser Version
-- Neue Einstellung „Fleisch und Fisch bevorzugt“: mittags und abends immer Fleisch oder Fisch (Profil → Ernährung ändern)
-- 6 neue Gerichte: Putenschnitzel, Hähnchen-Curry, Puten-Geschnetzeltes, Rindersteak, Hackbällchen und Hähnchen-Salat, jeweils mit Bild und Kochanleitung
-- Die Mengen treffen deine Kalorien und dein Eiweiß jetzt genauer
+- Training auf einen anderen Tag verschieben: Heute nicht? Einfach verschieben oder mit einem anderen Trainingstag tauschen
+- 90 Minuten Trainingszeit wählbar (8 Übungen, mehr Sätze)
+- Aufwärmprogramm vor jedem Training: Gerät frei wählbar (Rad, Laufband, Crosstrainer, Rudergerät, Stepper, Springseil oder ohne Gerät), Dauer 5, 8 oder 10 Minuten, mit Timer
+- Mobilisation passend zum Trainingstag und Aufwärmsätze für die erste Übung
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
 2. Android einmal erlauben, Apps aus dieser Quelle zu installieren.
 3. Über eine ältere Version installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten.
 
-SHA-256: `684b4695c211a545cb139b7e04129b8ac2555903982d088a5339e67e5d92e56b`
+SHA-256: `e457729f1d3bc24714a0c268e76de7fe6222265ec9612e2473e90798176c6ed2`

@@ -1,12 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "file": "Kraftplan-1.5.apk",
-  "sha256": "684b4695c211a545cb139b7e04129b8ac2555903982d088a5339e67e5d92e56b",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "file": "Kraftplan-1.6.apk",
+  "sha256": "e457729f1d3bc24714a0c268e76de7fe6222265ec9612e2473e90798176c6ed2",
   "date": "2026-10-28",
   "notes": [
-    "Neue Einstellung „Fleisch und Fisch bevorzugt“: mittags und abends immer Fleisch oder Fisch (Profil → Ernährung ändern)",
-    "6 neue Gerichte: Putenschnitzel, Hähnchen-Curry, Puten-Geschnetzeltes, Rindersteak, Hackbällchen und Hähnchen-Salat, jeweils mit Bild und Kochanleitung",
-    "Die Mengen treffen deine Kalorien und dein Eiweiß jetzt genauer"
+    "Training auf einen anderen Tag verschieben: Heute nicht? Einfach verschieben oder mit einem anderen Trainingstag tauschen",
+    "90 Minuten Trainingszeit wählbar (8 Übungen, mehr Sätze)",
+    "Aufwärmprogramm vor jedem Training: Gerät frei wählbar (Rad, Laufband, Crosstrainer, Rudergerät, Stepper, Springseil oder ohne Gerät), Dauer 5, 8 oder 10 Minuten, mit Timer",
+    "Mobilisation passend zum Trainingstag und Aufwärmsätze für die erste Übung"
   ]
 }
