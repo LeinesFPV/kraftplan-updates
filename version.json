@@ -1,0 +1,11 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "file": "Kraftplan-1.3.apk",
+  "sha256": "88f9b35dc78d28d19915ef20db9eccaef5f58874c462a476e372ca2448649988",
+  "date": "2026-10-28",
+  "notes": [
+    "Updates direkt in der App: Kraftplan schaut einmal am Tag nach neuen Versionen",
+    "Unter Profil gibt es „Nach Updates suchen“"
+  ]
+}
