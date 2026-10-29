@@ -1,10 +1,14 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
-  "file": "Kraftplan-2.5.apk",
-  "sha256": "5249f927bd2eb6a4d4dc6314310b7554026f1d17e50272935e30b22a4bf368ea",
+  "versionCode": 17,
+  "versionName": "2.6",
+  "file": "Kraftplan-2.6.apk",
+  "sha256": "3a5cf5bfc34baccfae47b16792ed08836ecc9c99080d9b01877a10965c95a632",
   "date": "2026-10-29",
   "notes": [
-    "Fehler behoben: „Training beenden und speichern“ ließ sich nicht antippen, weil ein unsichtbarer Hinweis-Kasten darüber lag."
+    "„Training starten“ steht jetzt oben und als feste Leiste unten in der Trainingsansicht.",
+    "Im laufenden Training: Fortschritt (x von 7 Übungen) und „Fertig“-Knopf immer oben sichtbar.",
+    "Profil: Jede Zeile antippen, um genau diese Angabe zu ändern.",
+    "Ernährung: Kalorien-Ring, weniger Knöpfe pro Mahlzeit (Weiteres unter „Mehr …“), dazu „Zurück zum Plan“ für eigene Einträge.",
+    "Modernere Optik: Schatten, Tipp-Feedback, markierter Reiter unten."
   ]
 }
