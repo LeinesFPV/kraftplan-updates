@@ -1,11 +1,11 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "file": "Kraftplan-1.9.apk",
-  "sha256": "899399611974d2a77e8a9a2f0fc128f568a0112d0552623aaff8a8ef19803f76",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "file": "Kraftplan-2.0.apk",
+  "sha256": "4bd42364e5620f6cbe47f34794463ea270ab30b1fe28cf35032996fd05ca9a4f",
   "date": "2026-10-29",
   "notes": [
-    "Bürotage: Im Ernährungsplan jeden Tag zwischen Zuhause und Büro umschalten. Im Büro gibt es mittags ein Essen aus dem Supermarkt mit Einkaufszettel statt Kochanleitung.",
-    "Dein Supermarkt (REWE, EDEKA, Lidl, ALDI): Kraftplan nennt passende Produkte, z. B. Skyr, Protein-Pudding oder Salat to go. Feste Bürotage und Markt unter Profil → Ernährung ändern."
+    "Echte Fotos für 26 Gerichte (frei lizenziert von Wikimedia Commons). Für die übrigen 8 bleibt das 3D-Bild.",
+    "Bildnachweise unter Profil → App"
   ]
 }
