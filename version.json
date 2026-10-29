@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "file": "Kraftplan-2.3.apk",
-  "sha256": "e8bd82f8ec7df1e5f687338ab548f4486cb90b35058dd69f1159c9a214e00d01",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "file": "Kraftplan-2.4.apk",
+  "sha256": "e0dde65e8af9123b2b275ad82626fed817472699590dbe62902573cce86eae2b",
   "date": "2026-10-29",
   "notes": [
-    "Salatbuffet: Nach „Hinzufügen“ springt die Ansicht nach oben zu deiner Liste, mit Hinweis zum Speichern. Vorher blieb sie unten stehen und es sah aus, als würde nichts passieren."
+    "Rechtliches und Datenschutz: neue Seite unter Profil, kurzer Gesundheitshinweis beim ersten Start."
   ]
 }
