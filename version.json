@@ -1,12 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "file": "Kraftplan-2.1.apk",
-  "sha256": "d83a0d94372c98906ed9259fde8fb08655a419e9cf485150d630a010d31298b9",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "file": "Kraftplan-2.2.apk",
+  "sha256": "27b31a0e45cb3f75c661868b6911ae252a07d5a4f8f9217cdbd9f597300f63e6",
   "date": "2026-10-29",
   "notes": [
-    "Anderes gegessen: Bei jeder Mahlzeit eintragen, was du wirklich gegessen hast, z. B. Salat vom Salatbuffet und 2 Brötchen. Über 120 Lebensmittel eingebaut, verpackte Produkte findest du über die Online-Suche (Open Food Facts).",
-    "Die restlichen Mahlzeiten des Tages passen sich automatisch an, damit dein Tagesziel trotzdem stimmt.",
-    "Etwas zusätzlich gegessen: Snacks und Getränke außerhalb des Plans eintragen."
+    "Strichcode-Scanner: Beim Eintragen „Strichcode scannen“ antippen und die Packung vor die Kamera halten. Nährwerte kommen aus Open Food Facts.",
+    "Salatbuffet-Schale: Zutaten antippen (Salat, Karotten, Rote Bete, Thunfisch, Mais, Couscous …), Dressing wählen, Gewicht eingeben.",
+    "Vorschläge: Nach dem Eintragen zeigt Kraftplan, was noch zur Mahlzeit passt, damit Eiweiß und Kalorien stimmen."
   ]
 }
