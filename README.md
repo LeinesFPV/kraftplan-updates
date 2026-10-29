@@ -2,16 +2,17 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.8** (2026-10-29)
+**Aktuelle Version: 1.9** (2026-10-29)
 
-[Kraftplan-1.8.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.8.apk)
+[Kraftplan-1.9.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.9.apk)
 
 ## Neu in dieser Version
-- Trainingsdauer passt jetzt zur gewählten Zeit: Bei 60, 75 oder 90 Minuten gibt es mehr Übungen und Zusatzsätze, auch für Anfänger. Kurze Einheiten werden nicht mehr zu lang.
+- Bürotage: Im Ernährungsplan jeden Tag zwischen Zuhause und Büro umschalten. Im Büro gibt es mittags ein Essen aus dem Supermarkt mit Einkaufszettel statt Kochanleitung.
+- Dein Supermarkt (REWE, EDEKA, Lidl, ALDI): Kraftplan nennt passende Produkte, z. B. Skyr, Protein-Pudding oder Salat to go. Feste Bürotage und Markt unter Profil → Ernährung ändern.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
 2. Android einmal erlauben, Apps aus dieser Quelle zu installieren.
 3. Über eine ältere Version installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten.
 
-SHA-256: `58df2673fd9ef153c6d643599b72f4109a3e4f0874c33e87984a67136f44bfcd`
+SHA-256: `899399611974d2a77e8a9a2f0fc128f568a0112d0552623aaff8a8ef19803f76`
