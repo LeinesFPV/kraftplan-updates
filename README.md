@@ -15,4 +15,6 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 2. Android einmal erlauben, Apps aus dieser Quelle zu installieren.
 3. Über eine ältere Version installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten.
 
+Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
+
 SHA-256: `4bd42364e5620f6cbe47f34794463ea270ab30b1fe28cf35032996fd05ca9a4f`
