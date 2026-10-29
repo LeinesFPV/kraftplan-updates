@@ -2,17 +2,16 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.7** (2026-10-29)
+**Aktuelle Version: 1.8** (2026-10-29)
 
-[Kraftplan-1.7.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.7.apk)
+[Kraftplan-1.8.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-1.8.apk)
 
 ## Neu in dieser Version
-- Neue 3D-Bilder für alle 34 Gerichte
-- Abnehm-Start: auf Wunsch 4 Wochen mit mehr Kaloriendefizit, mehr Cardio und kürzeren Pausen, danach geht es automatisch mit deinen Zielen weiter (Profil → Ziele ändern)
+- Trainingsdauer passt jetzt zur gewählten Zeit: Bei 60, 75 oder 90 Minuten gibt es mehr Übungen und Zusatzsätze, auch für Anfänger. Kurze Einheiten werden nicht mehr zu lang.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
 2. Android einmal erlauben, Apps aus dieser Quelle zu installieren.
 3. Über eine ältere Version installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten.
 
-SHA-256: `e91fbe9f112ad9357d380d458f83fe2e0039c42924aca69dfd0ed6adcf506652`
+SHA-256: `58df2673fd9ef153c6d643599b72f4109a3e4f0874c33e87984a67136f44bfcd`

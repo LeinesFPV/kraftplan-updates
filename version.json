@@ -1,11 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "file": "Kraftplan-1.7.apk",
-  "sha256": "e91fbe9f112ad9357d380d458f83fe2e0039c42924aca69dfd0ed6adcf506652",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "file": "Kraftplan-1.8.apk",
+  "sha256": "58df2673fd9ef153c6d643599b72f4109a3e4f0874c33e87984a67136f44bfcd",
   "date": "2026-10-29",
   "notes": [
-    "Neue 3D-Bilder für alle 34 Gerichte",
-    "Abnehm-Start: auf Wunsch 4 Wochen mit mehr Kaloriendefizit, mehr Cardio und kürzeren Pausen, danach geht es automatisch mit deinen Zielen weiter (Profil → Ziele ändern)"
+    "Trainingsdauer passt jetzt zur gewählten Zeit: Bei 60, 75 oder 90 Minuten gibt es mehr Übungen und Zusatzsätze, auch für Anfänger. Kurze Einheiten werden nicht mehr zu lang."
   ]
 }
