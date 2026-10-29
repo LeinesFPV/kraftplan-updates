@@ -2,12 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 2.4** (2026-10-29)
+**Aktuelle Version: 2.5** (2026-10-29)
 
-[Kraftplan-2.4.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-2.4.apk)
+[Kraftplan-2.5.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-2.5.apk)
 
 ## Neu in dieser Version
-- Rechtliches und Datenschutz: neue Seite unter Profil, kurzer Gesundheitshinweis beim ersten Start.
+- Fehler behoben: „Training beenden und speichern“ ließ sich nicht antippen, weil ein unsichtbarer Hinweis-Kasten darüber lag.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -24,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `e0dde65e8af9123b2b275ad82626fed817472699590dbe62902573cce86eae2b`
+SHA-256: `5249f927bd2eb6a4d4dc6314310b7554026f1d17e50272935e30b22a4bf368ea`

@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
-  "file": "Kraftplan-2.4.apk",
-  "sha256": "e0dde65e8af9123b2b275ad82626fed817472699590dbe62902573cce86eae2b",
+  "versionCode": 16,
+  "versionName": "2.5",
+  "file": "Kraftplan-2.5.apk",
+  "sha256": "5249f927bd2eb6a4d4dc6314310b7554026f1d17e50272935e30b22a4bf368ea",
   "date": "2026-10-29",
   "notes": [
-    "Rechtliches und Datenschutz: neue Seite unter Profil, kurzer Gesundheitshinweis beim ersten Start."
+    "Fehler behoben: „Training beenden und speichern“ ließ sich nicht antippen, weil ein unsichtbarer Hinweis-Kasten darüber lag."
   ]
 }
