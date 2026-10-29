@@ -1,12 +1,10 @@
 {
-  "versionCode": 18,
-  "versionName": "3.0",
-  "file": "Kraftplan-3.0.apk",
-  "sha256": "2920815fc3fdd7f3016f7a5f102de8c1e2ff33125138c7cf4cf9d4b6d9f34d6e",
+  "versionCode": 19,
+  "versionName": "3.1",
+  "file": "Kraftplan-3.1.apk",
+  "sha256": "8a80df9fa780cec395821bc15cc3f2d10eb55c454cf095f949b240db482c5f2e",
   "date": "2026-10-29",
   "notes": [
-    "Neues Design: dunkler Hintergrund mit Leuchtakzenten, Verlaufsknöpfe, schwebende Navigationsleiste, Wochenleiste auf Heute.",
-    "Nur noch ein „Training starten“: feste Leiste unten, daneben „Verschieben“.",
-    "Im Training: feste Leiste „Training beenden“ unten. Dort wählst du Speichern, Weiter trainieren oder Verwerfen."
+    "Einheitliches Design auf allen Seiten: Leuchtkarten wie auf „Heute“ für Training, Trainingsansicht, Ernährung, Fortschritt und Profil."
   ]
 }

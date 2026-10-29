@@ -2,14 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.0** (2026-10-29)
+**Aktuelle Version: 3.1** (2026-10-29)
 
-[Kraftplan-3.0.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.0.apk)
+[Kraftplan-3.1.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.1.apk)
 
 ## Neu in dieser Version
-- Neues Design: dunkler Hintergrund mit Leuchtakzenten, Verlaufsknöpfe, schwebende Navigationsleiste, Wochenleiste auf Heute.
-- Nur noch ein „Training starten“: feste Leiste unten, daneben „Verschieben“.
-- Im Training: feste Leiste „Training beenden“ unten. Dort wählst du Speichern, Weiter trainieren oder Verwerfen.
+- Einheitliches Design auf allen Seiten: Leuchtkarten wie auf „Heute“ für Training, Trainingsansicht, Ernährung, Fortschritt und Profil.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -26,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `2920815fc3fdd7f3016f7a5f102de8c1e2ff33125138c7cf4cf9d4b6d9f34d6e`
+SHA-256: `8a80df9fa780cec395821bc15cc3f2d10eb55c454cf095f949b240db482c5f2e`
