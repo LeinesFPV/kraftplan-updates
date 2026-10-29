@@ -1,11 +1,12 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "file": "Kraftplan-2.0.apk",
-  "sha256": "4bd42364e5620f6cbe47f34794463ea270ab30b1fe28cf35032996fd05ca9a4f",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "file": "Kraftplan-2.1.apk",
+  "sha256": "d83a0d94372c98906ed9259fde8fb08655a419e9cf485150d630a010d31298b9",
   "date": "2026-10-29",
   "notes": [
-    "Echte Fotos für 26 Gerichte (frei lizenziert von Wikimedia Commons). Für die übrigen 8 bleibt das 3D-Bild.",
-    "Bildnachweise unter Profil → App"
+    "Anderes gegessen: Bei jeder Mahlzeit eintragen, was du wirklich gegessen hast, z. B. Salat vom Salatbuffet und 2 Brötchen. Über 120 Lebensmittel eingebaut, verpackte Produkte findest du über die Online-Suche (Open Food Facts).",
+    "Die restlichen Mahlzeiten des Tages passen sich automatisch an, damit dein Tagesziel trotzdem stimmt.",
+    "Etwas zusätzlich gegessen: Snacks und Getränke außerhalb des Plans eintragen."
   ]
 }
