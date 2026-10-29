@@ -1,12 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "file": "Kraftplan-2.2.apk",
-  "sha256": "27b31a0e45cb3f75c661868b6911ae252a07d5a4f8f9217cdbd9f597300f63e6",
+  "versionCode": 14,
+  "versionName": "2.3",
+  "file": "Kraftplan-2.3.apk",
+  "sha256": "e8bd82f8ec7df1e5f687338ab548f4486cb90b35058dd69f1159c9a214e00d01",
   "date": "2026-10-29",
   "notes": [
-    "Strichcode-Scanner: Beim Eintragen „Strichcode scannen“ antippen und die Packung vor die Kamera halten. Nährwerte kommen aus Open Food Facts.",
-    "Salatbuffet-Schale: Zutaten antippen (Salat, Karotten, Rote Bete, Thunfisch, Mais, Couscous …), Dressing wählen, Gewicht eingeben.",
-    "Vorschläge: Nach dem Eintragen zeigt Kraftplan, was noch zur Mahlzeit passt, damit Eiweiß und Kalorien stimmen."
+    "Salatbuffet: Nach „Hinzufügen“ springt die Ansicht nach oben zu deiner Liste, mit Hinweis zum Speichern. Vorher blieb sie unten stehen und es sah aus, als würde nichts passieren."
   ]
 }
