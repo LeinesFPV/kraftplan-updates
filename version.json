@@ -1,11 +1,13 @@
 {
-  "versionCode": 21,
-  "versionName": "3.3",
-  "file": "Kraftplan-3.3.apk",
-  "sha256": "8dc0883ac8cda5afeadc5decaf42e8131b229c0653440c1d42b7e9583dbfe90e",
+  "versionCode": 22,
+  "versionName": "3.4",
+  "file": "Kraftplan-3.4.apk",
+  "sha256": "2cc744ba24f32b99ff8b11c857a1fbd3c196c0e248a1bd9d73d3717211a64c65",
   "date": "2026-10-30",
   "notes": [
-    "Pflicht-Updates: Die App prüft bei jedem Start auf eine neue Version und bittet vor dem Weitermachen um das Update. Ohne Internet läuft sie normal weiter."
+    "Datenschutz: vollständige Datenschutzerklärung, Nutzungsbedingungen, Impressum und Lizenzen unter Profil → Rechtliches und Datenschutz.",
+    "Einmalige Zustimmung beim Start (ab 16 Jahren). Die Geräte-Freischaltung läuft erst nach der Zustimmung.",
+    "Neu: „Meine Server-Daten löschen“."
   ],
   "force": true
 }

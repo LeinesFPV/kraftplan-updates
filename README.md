@@ -2,12 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.3** (2026-10-30)
+**Aktuelle Version: 3.4** (2026-10-30)
 
-[Kraftplan-3.3.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.3.apk)
+[Kraftplan-3.4.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.4.apk)
 
 ## Neu in dieser Version
-- Pflicht-Updates: Die App prüft bei jedem Start auf eine neue Version und bittet vor dem Weitermachen um das Update. Ohne Internet läuft sie normal weiter.
+- Datenschutz: vollständige Datenschutzerklärung, Nutzungsbedingungen, Impressum und Lizenzen unter Profil → Rechtliches und Datenschutz.
+- Einmalige Zustimmung beim Start (ab 16 Jahren). Die Geräte-Freischaltung läuft erst nach der Zustimmung.
+- Neu: „Meine Server-Daten löschen“.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -24,4 +26,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `8dc0883ac8cda5afeadc5decaf42e8131b229c0653440c1d42b7e9583dbfe90e`
+SHA-256: `2cc744ba24f32b99ff8b11c857a1fbd3c196c0e248a1bd9d73d3717211a64c65`
