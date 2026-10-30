@@ -2,12 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.5** (2026-10-30)
+**Aktuelle Version: 3.6** (2026-10-30)
 
-[Kraftplan-3.5.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.5.apk)
+[Kraftplan-3.6.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.6.apk)
 
 ## Neu in dieser Version
-- Nutzerverwaltung: Status jetzt eindeutig (rot „Gesperrt“ / grün „Frei“), daneben Sperren bzw. Freigeben.
+- Selbstauskunft: Unter Profil → Rechtliches und Datenschutz → „Meine Server-Daten anzeigen“ siehst du alles, was über dein Gerät auf dem Server gespeichert ist, und kannst es kopieren.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -24,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `d88e463d8d46dcb99e31b9f9d80c5029fa1fcf907bfcdc366f85a5240b8c82e4`
+SHA-256: `4f126a9bd065b592504036507ad8315e247e6aa603365a90723a194d31f9ef33`

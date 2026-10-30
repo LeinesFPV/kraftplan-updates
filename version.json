@@ -1,11 +1,11 @@
 {
-  "versionCode": 23,
-  "versionName": "3.5",
-  "file": "Kraftplan-3.5.apk",
-  "sha256": "d88e463d8d46dcb99e31b9f9d80c5029fa1fcf907bfcdc366f85a5240b8c82e4",
+  "versionCode": 24,
+  "versionName": "3.6",
+  "file": "Kraftplan-3.6.apk",
+  "sha256": "4f126a9bd065b592504036507ad8315e247e6aa603365a90723a194d31f9ef33",
   "date": "2026-10-30",
   "notes": [
-    "Nutzerverwaltung: Status jetzt eindeutig (rot „Gesperrt“ / grün „Frei“), daneben Sperren bzw. Freigeben."
+    "Selbstauskunft: Unter Profil → Rechtliches und Datenschutz → „Meine Server-Daten anzeigen“ siehst du alles, was über dein Gerät auf dem Server gespeichert ist, und kannst es kopieren."
   ],
   "force": false
 }
