@@ -1,13 +1,11 @@
 {
-  "versionCode": 22,
-  "versionName": "3.4",
-  "file": "Kraftplan-3.4.apk",
-  "sha256": "2cc744ba24f32b99ff8b11c857a1fbd3c196c0e248a1bd9d73d3717211a64c65",
+  "versionCode": 23,
+  "versionName": "3.5",
+  "file": "Kraftplan-3.5.apk",
+  "sha256": "d88e463d8d46dcb99e31b9f9d80c5029fa1fcf907bfcdc366f85a5240b8c82e4",
   "date": "2026-10-30",
   "notes": [
-    "Datenschutz: vollständige Datenschutzerklärung, Nutzungsbedingungen, Impressum und Lizenzen unter Profil → Rechtliches und Datenschutz.",
-    "Einmalige Zustimmung beim Start (ab 16 Jahren). Die Geräte-Freischaltung läuft erst nach der Zustimmung.",
-    "Neu: „Meine Server-Daten löschen“."
+    "Nutzerverwaltung: Status jetzt eindeutig (rot „Gesperrt“ / grün „Frei“), daneben Sperren bzw. Freigeben."
   ],
-  "force": true
+  "force": false
 }
