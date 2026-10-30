@@ -1,10 +1,11 @@
 {
-  "versionCode": 19,
-  "versionName": "3.1",
-  "file": "Kraftplan-3.1.apk",
-  "sha256": "8a80df9fa780cec395821bc15cc3f2d10eb55c454cf095f949b240db482c5f2e",
-  "date": "2026-10-29",
+  "versionCode": 20,
+  "versionName": "3.2",
+  "file": "Kraftplan-3.2.apk",
+  "sha256": "66079eaeef20a933c45eafd4676e9c7c8d7ffcfe9b046c51c2c5fcc94bf566a9",
+  "date": "2026-10-30",
   "notes": [
-    "Einheitliches Design auf allen Seiten: Leuchtkarten wie auf „Heute“ für Training, Trainingsansicht, Ernährung, Fortschritt und Profil."
+    "Freischaltung im Hintergrund: Die App meldet sich automatisch an, ohne Code oder Konto. Details unter Rechtliches und Datenschutz.",
+    "Bei einer Sperre lassen sich weiterhin Updates installieren und Daten sichern."
   ]
 }
