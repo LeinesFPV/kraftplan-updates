@@ -1,11 +1,11 @@
 {
-  "versionCode": 20,
-  "versionName": "3.2",
-  "file": "Kraftplan-3.2.apk",
-  "sha256": "66079eaeef20a933c45eafd4676e9c7c8d7ffcfe9b046c51c2c5fcc94bf566a9",
+  "versionCode": 21,
+  "versionName": "3.3",
+  "file": "Kraftplan-3.3.apk",
+  "sha256": "8dc0883ac8cda5afeadc5decaf42e8131b229c0653440c1d42b7e9583dbfe90e",
   "date": "2026-10-30",
   "notes": [
-    "Freischaltung im Hintergrund: Die App meldet sich automatisch an, ohne Code oder Konto. Details unter Rechtliches und Datenschutz.",
-    "Bei einer Sperre lassen sich weiterhin Updates installieren und Daten sichern."
-  ]
+    "Pflicht-Updates: Die App prüft bei jedem Start auf eine neue Version und bittet vor dem Weitermachen um das Update. Ohne Internet läuft sie normal weiter."
+  ],
+  "force": true
 }
