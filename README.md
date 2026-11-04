@@ -2,14 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.10** (2026-11-04)
+**Aktuelle Version: 3.11** (2026-11-04)
 
-[Kraftplan-3.10.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.10.apk)
+[Kraftplan-3.11.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.11.apk)
 
 ## Neu in dieser Version
-- Übung tauschen: Ein Popup zeigt vergleichbare Übungen mit Foto, Gerät und Muskeln – wie bei der Geräte-Auswahl in der Einführung. Antippen tauscht, „?“ zeigt die Ausführung. Gilt in der Trainingsübersicht und während des Trainings.
-- Eingabe von Gewicht und Wiederholungen: Das Feld wird nicht mehr von der Tastatur, der unteren Leiste oder dem Pausen-Timer verdeckt. „Weiter“ springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.
-- Nach „So geht’s“ bist du wieder an derselben Stelle – auch beim Zurückwischen.
+- Übung hinzufügen: Noch Zeit übrig? Unten im laufenden Training öffnet „＋ Übung hinzufügen“ eine Auswahl – zuerst Übungen, die zum heutigen Training passen, dann alle weiteren nach Muskelgruppen. Zusatzübungen lassen sich wieder entfernen und werden beim Beenden mit gespeichert.
+- Updates kommen jetzt sofort an, ohne die bisherige Verzögerung von bis zu 5 Minuten.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -26,4 +25,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `3fdce6234d17dbe58ea216bf67432d2fd483418333dcd017e56bbb6023566dd7`
+SHA-256: `6ac6d1df54d52df9e0ab01bfba738f6ffcefbab0dc6dbaccafa8ba66536d6de4`
