@@ -2,21 +2,19 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.7** (2026-10-30)
+**Aktuelle Version: 3.8** (2026-11-04)
 
-> **Wichtig:** Version 3.7 hat einen neuen Signaturschlüssel. Sie lässt sich nicht über 3.6 oder älter installieren. So geht der Wechsel: 1. In der alten App unter Profil → „Daten sichern oder wiederherstellen“ → „Kopieren“ und den Text z. B. in einer Notiz speichern. 2. Die alte App deinstallieren. 3. Kraftplan 3.7 herunterladen und installieren. 4. In der neuen App unter Profil → „Daten sichern oder wiederherstellen“ den Text einfügen und „Wiederherstellen“ tippen. Ab 3.7 kommen Updates wieder ganz normal über die App.
-
-[Kraftplan-3.7.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.7.apk)
+[Kraftplan-3.8.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.8.apk)
 
 ## Neu in dieser Version
-- Wichtig: Diese Version muss einmalig neu installiert werden (neuer Signaturschlüssel). „Jetzt aktualisieren“ funktioniert dafür nicht.
-- So geht’s: Profil → „Daten sichern oder wiederherstellen“ → „Kopieren“ und den Text in einer Notiz speichern. Dann die App deinstallieren, Kraftplan 3.7 von github.com/LeinesFPV/kraftplan-updates installieren und die Sicherung dort wieder einfügen.
-- Ab 3.7 kommen Updates wieder ganz normal über die App. Sonst keine Änderungen.
+- Übung tauschen: Statt blind zur nächsten Übung zu springen, bekommst du jetzt eine Liste vergleichbarer Übungen – gleiche Bewegung und ähnliche Muskeln, mit Bild, Gerät und „So geht’s“. Die anderen Übungen bleiben dabei unverändert.
+- Gewicht und Wiederholungen: Das Feld wird beim Tippen nicht mehr von der Leiste oder dem Pausen-Timer verdeckt. „Weiter“ auf der Tastatur springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.
+- Nach „So geht’s“ bist du wieder an derselben Stelle in deinem Training.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
 2. Android einmal erlauben, Apps aus dieser Quelle zu installieren.
-3. Über eine ältere Version ab 3.7 installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten. (Von 3.6 oder älter: siehe Hinweis oben.)
+3. Über eine ältere Version installieren: Alle Trainings, Gewichte und Einstellungen bleiben erhalten.
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
@@ -28,4 +26,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `e1a909a501860fbb5f13ec52483fce7e8480072aa425508cbf216efeed8411f3`
+SHA-256: `21709d16688b754225b04584c004e93ddbf3c88b6f3092bf5e788edf318d78eb`

@@ -1,13 +1,13 @@
 {
-  "versionCode": 25,
-  "versionName": "3.7",
-  "file": "Kraftplan-3.7.apk",
-  "sha256": "e1a909a501860fbb5f13ec52483fce7e8480072aa425508cbf216efeed8411f3",
-  "date": "2026-10-30",
+  "versionCode": 26,
+  "versionName": "3.8",
+  "file": "Kraftplan-3.8.apk",
+  "sha256": "21709d16688b754225b04584c004e93ddbf3c88b6f3092bf5e788edf318d78eb",
+  "date": "2026-11-04",
   "notes": [
-    "Wichtig: Diese Version muss einmalig neu installiert werden (neuer Signaturschlüssel). „Jetzt aktualisieren“ funktioniert dafür nicht.",
-    "So geht’s: Profil → „Daten sichern oder wiederherstellen“ → „Kopieren“ und den Text in einer Notiz speichern. Dann die App deinstallieren, Kraftplan 3.7 von github.com/LeinesFPV/kraftplan-updates installieren und die Sicherung dort wieder einfügen.",
-    "Ab 3.7 kommen Updates wieder ganz normal über die App. Sonst keine Änderungen."
+    "Übung tauschen: Statt blind zur nächsten Übung zu springen, bekommst du jetzt eine Liste vergleichbarer Übungen – gleiche Bewegung und ähnliche Muskeln, mit Bild, Gerät und „So geht’s“. Die anderen Übungen bleiben dabei unverändert.",
+    "Gewicht und Wiederholungen: Das Feld wird beim Tippen nicht mehr von der Leiste oder dem Pausen-Timer verdeckt. „Weiter“ auf der Tastatur springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.",
+    "Nach „So geht’s“ bist du wieder an derselben Stelle in deinem Training."
   ],
   "force": false
 }
