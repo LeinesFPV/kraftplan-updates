@@ -2,14 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.8** (2026-11-04)
+**Aktuelle Version: 3.9** (2026-11-04)
 
-[Kraftplan-3.8.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.8.apk)
+[Kraftplan-3.9.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.9.apk)
 
 ## Neu in dieser Version
-- Übung tauschen: Statt blind zur nächsten Übung zu springen, bekommst du jetzt eine Liste vergleichbarer Übungen – gleiche Bewegung und ähnliche Muskeln, mit Bild, Gerät und „So geht’s“. Die anderen Übungen bleiben dabei unverändert.
-- Gewicht und Wiederholungen: Das Feld wird beim Tippen nicht mehr von der Leiste oder dem Pausen-Timer verdeckt. „Weiter“ auf der Tastatur springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.
-- Nach „So geht’s“ bist du wieder an derselben Stelle in deinem Training.
+- Zurück per Wischgeste: Nach „So geht’s“ und anderen Fenstern bist du jetzt auch beim Zurückwischen wieder an derselben Stelle. Die Seite darunter bewegt sich nicht mehr mit, solange ein Fenster offen ist.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -26,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `21709d16688b754225b04584c004e93ddbf3c88b6f3092bf5e788edf318d78eb`
+SHA-256: `00a9261e37c4ab0df109f815e1a5fad3a559aacd956ecca85805d4e9deea7403`

@@ -1,13 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "3.8",
-  "file": "Kraftplan-3.8.apk",
-  "sha256": "21709d16688b754225b04584c004e93ddbf3c88b6f3092bf5e788edf318d78eb",
+  "versionCode": 27,
+  "versionName": "3.9",
+  "file": "Kraftplan-3.9.apk",
+  "sha256": "00a9261e37c4ab0df109f815e1a5fad3a559aacd956ecca85805d4e9deea7403",
   "date": "2026-11-04",
   "notes": [
-    "Übung tauschen: Statt blind zur nächsten Übung zu springen, bekommst du jetzt eine Liste vergleichbarer Übungen – gleiche Bewegung und ähnliche Muskeln, mit Bild, Gerät und „So geht’s“. Die anderen Übungen bleiben dabei unverändert.",
-    "Gewicht und Wiederholungen: Das Feld wird beim Tippen nicht mehr von der Leiste oder dem Pausen-Timer verdeckt. „Weiter“ auf der Tastatur springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.",
-    "Nach „So geht’s“ bist du wieder an derselben Stelle in deinem Training."
+    "Zurück per Wischgeste: Nach „So geht’s“ und anderen Fenstern bist du jetzt auch beim Zurückwischen wieder an derselben Stelle. Die Seite darunter bewegt sich nicht mehr mit, solange ein Fenster offen ist."
   ],
   "force": false
 }
