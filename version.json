@@ -1,11 +1,13 @@
 {
-  "versionCode": 27,
-  "versionName": "3.9",
-  "file": "Kraftplan-3.9.apk",
-  "sha256": "00a9261e37c4ab0df109f815e1a5fad3a559aacd956ecca85805d4e9deea7403",
+  "versionCode": 28,
+  "versionName": "3.10",
+  "file": "Kraftplan-3.10.apk",
+  "sha256": "3fdce6234d17dbe58ea216bf67432d2fd483418333dcd017e56bbb6023566dd7",
   "date": "2026-11-04",
   "notes": [
-    "Zurück per Wischgeste: Nach „So geht’s“ und anderen Fenstern bist du jetzt auch beim Zurückwischen wieder an derselben Stelle. Die Seite darunter bewegt sich nicht mehr mit, solange ein Fenster offen ist."
+    "Übung tauschen: Ein Popup zeigt vergleichbare Übungen mit Foto, Gerät und Muskeln – wie bei der Geräte-Auswahl in der Einführung. Antippen tauscht, „?“ zeigt die Ausführung. Gilt in der Trainingsübersicht und während des Trainings.",
+    "Eingabe von Gewicht und Wiederholungen: Das Feld wird nicht mehr von der Tastatur, der unteren Leiste oder dem Pausen-Timer verdeckt. „Weiter“ springt zu den Wiederholungen, „Fertig“ schließt die Tastatur.",
+    "Nach „So geht’s“ bist du wieder an derselben Stelle – auch beim Zurückwischen."
   ],
-  "force": false
+  "force": true
 }
