@@ -1,12 +1,12 @@
 {
-  "versionCode": 29,
-  "versionName": "3.11",
-  "file": "Kraftplan-3.11.apk",
-  "sha256": "6ac6d1df54d52df9e0ab01bfba738f6ffcefbab0dc6dbaccafa8ba66536d6de4",
-  "date": "2026-11-04",
+  "versionCode": 30,
+  "versionName": "3.12",
+  "file": "Kraftplan-3.12.apk",
+  "sha256": "8cd418e83077aa4f119a5098de5c42c435cf4b137efcaf7262d4e2cfa47eb414",
+  "date": "2026-11-06",
   "notes": [
-    "Übung hinzufügen: Noch Zeit übrig? Unten im laufenden Training öffnet „＋ Übung hinzufügen“ eine Auswahl – zuerst Übungen, die zum heutigen Training passen, dann alle weiteren nach Muskelgruppen. Zusatzübungen lassen sich wieder entfernen und werden beim Beenden mit gespeichert.",
-    "Updates kommen jetzt sofort an, ohne die bisherige Verzögerung von bis zu 5 Minuten."
+    "Intervalle zum Abschluss: Sie stehen jetzt als eigener Abschnitt am Ende des Trainings – wie das Aufwärmen – und nicht mehr als kleiner Hinweis. Sie gehören zu deiner gewählten Trainingszeit.",
+    "Neuer Intervall-Timer: sagt dir „Zügig“ und „Locker“ an, zählt die Runden und vibriert beim Wechsel. Am Ende werden die Intervalle automatisch abgehakt."
   ],
   "force": true
 }

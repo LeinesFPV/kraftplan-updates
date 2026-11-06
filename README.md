@@ -2,13 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.11** (2026-11-04)
+**Aktuelle Version: 3.12** (2026-11-06)
 
-[Kraftplan-3.11.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.11.apk)
+[Kraftplan-3.12.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.12.apk)
 
 ## Neu in dieser Version
-- Übung hinzufügen: Noch Zeit übrig? Unten im laufenden Training öffnet „＋ Übung hinzufügen“ eine Auswahl – zuerst Übungen, die zum heutigen Training passen, dann alle weiteren nach Muskelgruppen. Zusatzübungen lassen sich wieder entfernen und werden beim Beenden mit gespeichert.
-- Updates kommen jetzt sofort an, ohne die bisherige Verzögerung von bis zu 5 Minuten.
+- Intervalle zum Abschluss: Sie stehen jetzt als eigener Abschnitt am Ende des Trainings – wie das Aufwärmen – und nicht mehr als kleiner Hinweis. Sie gehören zu deiner gewählten Trainingszeit.
+- Neuer Intervall-Timer: sagt dir „Zügig“ und „Locker“ an, zählt die Runden und vibriert beim Wechsel. Am Ende werden die Intervalle automatisch abgehakt.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -25,4 +25,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `6ac6d1df54d52df9e0ab01bfba738f6ffcefbab0dc6dbaccafa8ba66536d6de4`
+SHA-256: `8cd418e83077aa4f119a5098de5c42c435cf4b137efcaf7262d4e2cfa47eb414`
