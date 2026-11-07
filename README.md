@@ -2,13 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.13** (2026-11-06)
+**Aktuelle Version: 3.14** (2026-11-07)
 
-[Kraftplan-3.13.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.13.apk)
+[Kraftplan-3.14.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.14.apk)
 
 ## Neu in dieser Version
-- „Wie war’s?“: Nach dem letzten Satz einer Übung kannst du freiwillig leicht, passt oder schwer antippen. Ideal sind 1 bis 3 Wiederholungen in Reserve. Leicht heißt nächstes Mal mehr Gewicht, schwer heißt erst mal nicht steigern.
-- Bessere Gewichtsvorschläge: Musstest du das Gewicht senken oder lagen mehrere Sätze unter der Spanne, schlägt Kraftplan beim nächsten Mal etwas weniger vor (höchstens ca. 15 %). Aufbausätze mit leichterem Gewicht zählen dabei nicht.
+- Was habe ich da? Unter Ernährung (oder im Menü einer Mahlzeit) tippst du an, was du zu Hause hast. Kraftplan stellt daraus ein Gericht mit Kochanleitung zusammen und zeigt Rezepte, für die du alles hast oder nur eine Zutat fehlt. Salz, Pfeffer, Öl und Gewürze setzt die App voraus.
+- Die Mengen sind auf deine Mahlzeit berechnet. Mit „Übernehmen“ landet das Gericht im Tagesplan, mit Kalorien und auf der Einkaufsliste.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -25,4 +25,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `afafc9f5c15196328dbc07d23b26751eddbf2262bc4c4f8b411731fd9ff5d050`
+SHA-256: `2fc711930df5a6957e4ddaa8a8e6aef307ba9746da8aead99d726080f813e5df`
