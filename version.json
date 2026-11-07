@@ -8,5 +8,5 @@
     "Was habe ich da? Unter Ernährung (oder im Menü einer Mahlzeit) tippst du an, was du zu Hause hast. Kraftplan stellt daraus ein Gericht mit Kochanleitung zusammen und zeigt Rezepte, für die du alles hast oder nur eine Zutat fehlt. Salz, Pfeffer, Öl und Gewürze setzt die App voraus.",
     "Die Mengen sind auf deine Mahlzeit berechnet. Mit „Übernehmen“ landet das Gericht im Tagesplan, mit Kalorien und auf der Einkaufsliste."
   ],
-  "force": true
+  "force": false
 }
