@@ -2,13 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.14** (2026-11-07)
+**Aktuelle Version: 3.15** (2026-11-07)
 
-[Kraftplan-3.14.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.14.apk)
+[Kraftplan-3.15.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.15.apk)
 
 ## Neu in dieser Version
-- Was habe ich da? Unter Ernährung (oder im Menü einer Mahlzeit) tippst du an, was du zu Hause hast. Kraftplan stellt daraus ein Gericht mit Kochanleitung zusammen und zeigt Rezepte, für die du alles hast oder nur eine Zutat fehlt. Salz, Pfeffer, Öl und Gewürze setzt die App voraus.
-- Die Mengen sind auf deine Mahlzeit berechnet. Mit „Übernehmen“ landet das Gericht im Tagesplan, mit Kalorien und auf der Einkaufsliste.
+- Statistik unter „Fortschritt“: wie viel Gewicht du insgesamt und pro Woche bewegt hast (mit Vergleich), ein Diagramm der letzten 8 Wochen, Sätze pro Muskelgruppe im Vergleich zum Richtwert, Kraftentwicklung pro Übung (antippen für Details), Abnehmtempo pro Woche und Zahlen wie Trainingszeit und Wiederholungen.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -25,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `2fc711930df5a6957e4ddaa8a8e6aef307ba9746da8aead99d726080f813e5df`
+SHA-256: `3f44a2ea0def7003ae4a9827f1cf112ed8252e83344d1de409f6b35b013b48af`
