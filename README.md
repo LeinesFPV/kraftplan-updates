@@ -2,12 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.15** (2026-11-07)
+**Aktuelle Version: 3.16** (2026-11-10)
 
-[Kraftplan-3.15.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.15.apk)
+[Kraftplan-3.16.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.16.apk)
 
 ## Neu in dieser Version
-- Statistik unter „Fortschritt“: wie viel Gewicht du insgesamt und pro Woche bewegt hast (mit Vergleich), ein Diagramm der letzten 8 Wochen, Sätze pro Muskelgruppe im Vergleich zum Richtwert, Kraftentwicklung pro Übung (antippen für Details), Abnehmtempo pro Woche und Zahlen wie Trainingszeit und Wiederholungen.
+- Im Training werden jetzt auch die Wiederholungen in die nächsten Sätze übernommen, genau wie das Gewicht. Was du in einem Satz einträgst, steht automatisch in allen folgenden Sätzen der Übung.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -24,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `3f44a2ea0def7003ae4a9827f1cf112ed8252e83344d1de409f6b35b013b48af`
+SHA-256: `0f056c94b4ef05ec2a16258bc6995c8cc323fe8f6c529cd671fc3876b6414de9`
