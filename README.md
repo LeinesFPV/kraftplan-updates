@@ -2,12 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.16** (2026-11-10)
+**Aktuelle Version: 3.17** (2026-11-11)
 
-[Kraftplan-3.16.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.16.apk)
+[Kraftplan-3.17.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.17.apk)
 
 ## Neu in dieser Version
-- Im Training werden jetzt auch die Wiederholungen in die nächsten Sätze übernommen, genau wie das Gewicht. Was du in einem Satz einträgst, steht automatisch in allen folgenden Sätzen der Übung.
+- 36 neue echte Essensfotos, zum Beispiel Döner, Pizza, Burger, Currywurst, Schnitzel, Leberkäsbrötchen, Brezel, Sushi, Müsli, Kuchen und Kaffee.
+- Trägst du ein, was du stattdessen gegessen hast, zeigt die Mahlzeit jetzt das passende Foto statt des ursprünglich geplanten Gerichts. Gibt es kein passendes Foto, erscheint ein neutrales Symbol.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -24,4 +25,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `0f056c94b4ef05ec2a16258bc6995c8cc323fe8f6c529cd671fc3876b6414de9`
+SHA-256: `e0b615d45b18ac3e2dd06de60d2d3aee3587bae2e6f39504918056c3f623ba6c`
