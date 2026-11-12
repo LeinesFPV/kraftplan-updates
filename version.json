@@ -1,11 +1,12 @@
 {
-  "versionCode": 36,
-  "versionName": "3.18",
-  "file": "Kraftplan-3.18.apk",
-  "sha256": "ccd5f9d22f2c373503b5b72b5349575b38ead71f22ca1c96b4450afa88ae0aeb",
-  "date": "2026-11-11",
+  "versionCode": 37,
+  "versionName": "3.19",
+  "file": "Kraftplan-3.19.apk",
+  "sha256": "7121e89d7c4590597a14021236b4659ab965e71e1c2cbd54da285b6a25080b05",
+  "date": "2026-11-12",
   "notes": [
-    "Training fortsetzen: Hast du ein Training beendet und machst doch weiter, tippe auf der Heute-Seite auf „Training fortsetzen“. Alle abgehakten Sätze, Zusatzübungen und Einschätzungen sind wieder da, die Uhr läuft weiter. Beim erneuten Beenden wird das Training aktualisiert, es entsteht kein zweiter Eintrag."
+    "Alle Rezepte haben jetzt echte Fotos. Die künstlich wirkenden Bilder, zum Beispiel bei Quark-Bowl, Putenschnitzel, Tofu-Gerichten, Skyr, den Shakes und dem Erdnussmus-Brot, sind ersetzt.",
+    "Sinnvolle Portionen: keine Rezepte mehr mit 7 Eiern und ½ Scheibe Brot oder 5 g Reis. Jede Zutat bleibt in einem normalen Bereich, fehlende Kalorien gleichen die anderen Mahlzeiten des Tages aus."
   ],
   "force": false
 }
