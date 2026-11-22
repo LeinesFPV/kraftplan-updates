@@ -2,13 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.19** (2026-11-12)
+**Aktuelle Version: 3.20** (2026-11-22)
 
-[Kraftplan-3.19.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.19.apk)
+[Kraftplan-3.20.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.20.apk)
 
 ## Neu in dieser Version
-- Alle Rezepte haben jetzt echte Fotos. Die künstlich wirkenden Bilder, zum Beispiel bei Quark-Bowl, Putenschnitzel, Tofu-Gerichten, Skyr, den Shakes und dem Erdnussmus-Brot, sind ersetzt.
-- Sinnvolle Portionen: keine Rezepte mehr mit 7 Eiern und ½ Scheibe Brot oder 5 g Reis. Jede Zutat bleibt in einem normalen Bereich, fehlende Kalorien gleichen die anderen Mahlzeiten des Tages aus.
+- Körpergewicht neu: Unter Fortschritt siehst du dein aktuelles Gewicht, die Veränderung seit Beginn und dein Tempo pro Woche. Dazu ein Diagramm mit kg-Achse, Trendlinie und Auswahl 4 Wochen, 3 Monate oder Alles.
+- Alle Einträge als Liste mit Datum und Veränderung zum vorigen Eintrag. Falsche Einträge lassen sich löschen, vergessene Tage mit Datum nachtragen.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -25,4 +25,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `7121e89d7c4590597a14021236b4659ab965e71e1c2cbd54da285b6a25080b05`
+SHA-256: `744c5ab3387b27544960f5e153b6c23db1998836673eeae730414540a0873f83`
