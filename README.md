@@ -2,13 +2,12 @@
 
 Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 3.20** (2026-11-22)
+**Aktuelle Version: 3.21** (2026-11-22)
 
-[Kraftplan-3.20.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.20.apk)
+[Kraftplan-3.21.apk herunterladen](https://github.com/LeinesFPV/kraftplan-updates/raw/main/Kraftplan-3.21.apk)
 
 ## Neu in dieser Version
-- Körpergewicht neu: Unter Fortschritt siehst du dein aktuelles Gewicht, die Veränderung seit Beginn und dein Tempo pro Woche. Dazu ein Diagramm mit kg-Achse, Trendlinie und Auswahl 4 Wochen, 3 Monate oder Alles.
-- Alle Einträge als Liste mit Datum und Veränderung zum vorigen Eintrag. Falsche Einträge lassen sich löschen, vergessene Tage mit Datum nachtragen.
+- Gewichtsdiagramm: Tippe auf einen Punkt (oder einfach in die Nähe), dann siehst du Datum, Gewicht, die Veränderung zum vorigen Eintrag und seit Start, den Trend und deinen BMI. Mit ‹ und › blätterst du durch die Einträge.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -25,4 +24,4 @@ Hier liegen nur die fertigen Versionen der Kraftplan-App. Die App schaut einmal 
 - Ausführlich in der App unter Profil → „Rechtliches und Datenschutz“.
 - Die APK ist nur für den privaten Gebrauch gedacht. Ohne Erlaubnis bitte nicht weiterverbreiten oder verändern.
 
-SHA-256: `744c5ab3387b27544960f5e153b6c23db1998836673eeae730414540a0873f83`
+SHA-256: `0fa0b78db6e6385750ef497e8f960cae2c8b8042696745314e461b0a4d007441`
